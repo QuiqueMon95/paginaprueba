@@ -46,10 +46,8 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+   
 
 education:
   - area: Máster en Análisis Político y Electoral 
