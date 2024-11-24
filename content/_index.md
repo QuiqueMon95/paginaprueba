@@ -14,8 +14,8 @@ sections:
     content:
       # Usuario del perfil a mostrar (carpeta dentro de `content/authors/`)
       username: admin
-      text:
-   <p style="font-size: 18px; line-height: 1.8; margin-bottom: 20px;">
+      text:|
+      <p style="font-size: 18px; line-height: 1.8; margin-bottom: 20px;">
         Me considero una persona curiosa que no puede quedarse con la duda. Siempre estoy muy interesado en los fenómenos sociales, el comportamiento humano y el funcionamiento de nuestras sociedades. Estas inquietudes las he plasmado en mi especialidad en comunicación política y en el diseño de campañas electorales.
       </p>
       <p style="font-size: 18px; line-height: 1.8; margin-bottom: 20px;">
