@@ -3,7 +3,7 @@
 title: ""
 date: 2022-10-24
 type: landing
-
+--- 
 design:
   # Espaciado predeterminado entre secciones
   spacing: "6rem"
