@@ -60,27 +60,5 @@ features:
     enable: false
 
 
-#/* Texto de la biografía */
-.resume-biography-3 p {
-  font-size: 20px !important;
-  line-height: 1.8 !important;
-  margin-bottom: 20px !important;
-}
-
-#/* Avatar */
-.resume-biography-3 img {
-  width: 200px !important;
-  height: 200px !important;
-  border-radius: 50% !important;
-  margin-bottom: 20px !important;
-}
-
-#/* Fondo del bloque */
-.resume-biography-3 {
-  background-color: #f9f9f9 !important; /* Fondo claro */
-  padding: 30px !important; /* Espaciado interno */
-  border-radius: 10px !important; /* Bordes redondeados */
-}
-
 
 
