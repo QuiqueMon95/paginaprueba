@@ -5,6 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
+  # Bloque de publicaciones (primero)
+  - block: collection
+    content:
+      title: "Publicaciones Destacadas"
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
   # Sección de biografía
   - block: resume-biography-3
     content:
@@ -21,16 +33,4 @@ sections:
         url: uploads/mi-cv.pdf
     design:
       css_class: biography-section
-
-  # Bloque de publicaciones
-  - block: collection
-    content:
-      title: "Publicaciones Destacadas"
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
 ---
