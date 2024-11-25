@@ -5,10 +5,9 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # Bloque de publicaciones (primero)
   - block: collection
+    id: papers  # Identificador único para publicaciones
     content:
-    id: papers
       title: "Publicaciones Destacadas"
       filters:
         folders:
@@ -18,11 +17,12 @@ sections:
       view: article-grid
       columns: 2
 
-  # Sección de biografía
-  - block: resume-biography-3
-  - id: bio
+- block: resume-biography-3
+    id: bio  # Identificador único para biografía
     content:
-      # Usuario del perfil a mostrar (carpeta dentro de `content/authors/`)
+      username: admin
+    content:
+      # Usuario del perfil a mostrar 
       username: admin
       text: "Me considero una persona curiosa que no puede quedarse con la duda. Siempre estoy muy interesado en los fenómenos sociales, el comportamiento humano y el funcionamiento de nuestras sociedades. Estas inquietudes las he plasmado en mi especialidad en comunicación política y en el diseño de campañas electorales.<br/><br/>
       
