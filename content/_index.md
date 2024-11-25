@@ -8,6 +8,7 @@ sections:
   # Bloque de publicaciones (primero)
   - block: collection
     content:
+    id: papers
       title: "Publicaciones Destacadas"
       filters:
         folders:
@@ -19,6 +20,7 @@ sections:
 
   # Sección de biografía
   - block: resume-biography-3
+  - id: bio
     content:
       # Usuario del perfil a mostrar (carpeta dentro de `content/authors/`)
       username: admin
