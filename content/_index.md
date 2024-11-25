@@ -9,7 +9,7 @@ sections:
   - block: collection
     id: papers  # Identificador único para publicaciones
     content:
-      title: "Publicaciones Destacadas"
+      title: "Publicaciones"
       filters:
         folders:
           - publication
