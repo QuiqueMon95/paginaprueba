@@ -31,20 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:enriquemonteromora.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Montero_Quique
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/quiquemonterom/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/quiquemon95
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/enrique-m-montero-mora-aa35381a2/
 
 #interests:
    
