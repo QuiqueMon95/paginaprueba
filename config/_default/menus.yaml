@@ -4,14 +4,13 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    url: /
-    weight: 20
-  - name: Papers
+  - name: Inicio
+    url: /  # Redirige a la página de inicio
+    weight: 10  # Controla el orden en la barra de navegación
+  - name: Publicaciones 
     url: /#papers
+    weight: 20
+  - name: Bio
+    url: /#bio
     weight: 30
-  - name: Talks
-    url: /#talks
-    weight: 40
-
  
